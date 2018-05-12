@@ -1,0 +1,31 @@
+_repo: The-Educated-Negro-and-His-MissionThe-American-Negro-Academy.-Occasional-Papers-No.-8_31255
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scarborough, W. S. (William Sanders)
+    alias: Scarborough, William Sanders
+    birthdate: 1852
+    deathdate: 1926
+    gutenberg_agent_id: '35102'
+    url: http://www.gutenberg.org/2009/agents/35102
+    wikipedia: http://en.wikipedia.org/wiki/William_Sanders_Scarborough
+description: ''
+gutenberg_issued: '2010-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31255'
+  lccn: '10007970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Education'
+- !lcc 'E151'
+title: 'The Educated Negro and His Mission
+
+  The American Negro Academy. Occasional Papers No. 8'
+url: http://www.gutenberg.org/ebooks/31255
