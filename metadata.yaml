@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35102
     wikipedia: http://en.wikipedia.org/wiki/William_Sanders_Scarborough
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31255#The-Educated-Negro-and-His-MissionThe-American-Negro-Academy.-Occasional-Papers-No.-8
 gutenberg_issued: '2010-02-11'
 gutenberg_type: Text
 identifiers:
